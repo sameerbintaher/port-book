@@ -2,7 +2,11 @@
 
 An interactive, 3D book-style portfolio website showcasing Md Obaidullah Bin Taher's (Sameer) journey as a Computer Vision & Full-Stack Developer. The portfolio is designed as a beautifully crafted digital book with animated page turns, realistic 3D effects, and a premium user experience.
 
-![Portfolio Preview](https://img.shields.io/badge/Next.js-15.5.2-black) ![React](https://img.shields.io/badge/React-19.1.0-blue) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-teal)
+## 🌐 Live Demo
+
+**[📖 View Live Portfolio](https://sam-port-book.vercel.app/)**
+
+![Portfolio Preview](https://img.shields.io/badge/Next.js-15.5.2-black) ![React](https://img.shields.io/badge/React-19.1.0-blue) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-teal) ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000)
 
 ## ✨ Features
 
@@ -167,11 +171,17 @@ The portfolio showcases:
 
 ## 🚀 Deployment
 
+### 🌐 Live Deployment
+
+**Current Live Version**: [https://sam-port-book.vercel.app/](https://sam-port-book.vercel.app/)
+
 ### Vercel (Recommended)
 
 1. Push your code to GitHub
 2. Connect your repository to [Vercel](https://vercel.com)
 3. Deploy automatically with zero configuration
+
+**✅ Successfully deployed on Vercel with automatic CI/CD**
 
 ### Other Platforms
 

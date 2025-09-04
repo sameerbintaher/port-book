@@ -90,8 +90,8 @@ export default function BookCover() {
             {/* Inspirational Tagline */}
             <div className="mb-8">
               <p className="text-yellow-100 max-w-3xl mx-auto leading-relaxed text-lg font-serif italic drop-shadow-md">
-                "Where Innovation Meets Imagination - Crafting Digital
-                Experiences That Bridge Research and Reality"
+                &ldquo;Where Innovation Meets Imagination - Crafting Digital
+                Experiences That Bridge Research and Reality&rdquo;
               </p>
             </div>
 
@@ -143,7 +143,7 @@ export default function BookCover() {
       {/* Opening Hint */}
       <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 text-center">
         <p className="text-yellow-200 text-sm mb-2 font-serif drop-shadow-md">
-          Click "Open Portfolio" to begin reading
+          Click &ldquo;Open Portfolio&rdquo; to begin reading
         </p>
         <div className="text-yellow-300 text-lg drop-shadow-lg">📖</div>
       </div>

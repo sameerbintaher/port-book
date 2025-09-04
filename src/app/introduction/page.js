@@ -20,13 +20,13 @@ export default function IntroductionPage() {
         {/* Main Title */}
         <div className="text-center space-y-3">
           <h1 className="text-3xl lg:text-5xl font-serif font-bold text-gray-800 leading-tight">
-            Hi, I'm Md Obaidullah Bin Taher (Sameer)
+            Hi, I&apos;m Md Obaidullah Bin Taher (Sameer)
           </h1>
 
           <div className="w-16 h-0.5 bg-gray-300 mx-auto rounded-full" />
 
           <p className="text-base text-gray-600 font-serif max-w-2xl mx-auto leading-relaxed">
-            Master's Student in Computer Science • Computer Vision & Image
+            Master&apos;s Student in Computer Science • Computer Vision & Image
             Processing Enthusiast • Full-Stack Developer
           </p>
         </div>

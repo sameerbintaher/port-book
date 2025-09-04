@@ -280,9 +280,9 @@ export default function CertificatesPage() {
           <div className="mt-6 text-center">
             <div className="bg-gradient-to-r from-green-100 to-yellow-100 p-4 rounded-lg border border-green-200">
               <p className="text-green-700 font-serif text-sm">
-                "From international AI competitions to leadership excellence,
-                these achievements reflect my commitment to academic and
-                professional growth in research and technology."
+                &ldquo;From international AI competitions to leadership
+                excellence, these achievements reflect my commitment to academic
+                and professional growth in research and technology.&rdquo;
               </p>
             </div>
           </div>

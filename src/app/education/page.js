@@ -209,7 +209,7 @@ export default function EducationPage() {
               <div className="space-y-3">
                 <div>
                   <h4 className="text-sm font-serif font-semibold text-green-700 mb-2">
-                    Master's Research Focus
+                    Master&apos;s Research Focus
                   </h4>
                   <ul className="text-sm text-green-600 font-serif space-y-1">
                     <li>• Computer Vision & Pattern Recognition</li>
@@ -243,7 +243,7 @@ export default function EducationPage() {
                   <ul className="text-sm text-yellow-600 font-serif space-y-1">
                     <li>• CSC Scholarship Recipient</li>
                     <li>• Academic Excellence Award</li>
-                    <li>• Dean's List Recognition</li>
+                    <li>• Dean&apos;s List Recognition</li>
                   </ul>
                 </div>
 
@@ -267,10 +267,10 @@ export default function EducationPage() {
                 Educational Foundation
               </h4>
               <p className="text-green-700 font-serif text-sm">
-                "From primary school excellence in Bangladesh to advanced
+                &ldquo;From primary school excellence in Bangladesh to advanced
                 research in computer science at Tiangong University, China -
                 building a strong foundation for innovation in AI and
-                technology."
+                technology.&rdquo;
               </p>
             </div>
           </div>

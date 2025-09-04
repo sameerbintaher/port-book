@@ -112,7 +112,7 @@ export default function ContactPage() {
           <div className="inline-block p-6 bg-gradient-to-br from-green-50 to-yellow-50 rounded-2xl border-2 border-yellow-300 mb-8">
             <div className="text-6xl mb-4">📞</div>
             <h1 className="text-4xl lg:text-5xl font-bold text-green-800 font-serif mb-4">
-              Let's Connect
+              Let&apos;s Connect
             </h1>
             <div className="w-24 h-1 bg-gradient-to-r from-yellow-500 to-amber-500 mx-auto rounded-full mb-4" />
             <p className="text-green-700 font-serif text-lg max-w-3xl mx-auto leading-relaxed">
@@ -238,7 +238,7 @@ export default function ContactPage() {
 
           <div className="text-center relative z-10">
             <h2 className="text-3xl font-bold text-green-800 font-serif mb-6">
-              🎨 Let's Create Something Amazing
+              🎨 Let&apos;s Create Something Amazing
             </h2>
             <p className="text-green-700 font-serif text-xl mb-8 leading-relaxed max-w-3xl mx-auto">
               I believe great things happen when passionate people collaborate.
@@ -265,7 +265,7 @@ export default function ContactPage() {
 
             <div className="mt-8 p-6 bg-white rounded-xl border-2 border-green-200 shadow-lg">
               <p className="text-green-800 font-serif text-lg italic">
-                "What story shall we write together?"
+                &ldquo;What story shall we write together?&rdquo;
               </p>
               <div className="mt-4 text-4xl">📖✨</div>
             </div>

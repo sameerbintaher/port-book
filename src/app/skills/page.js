@@ -145,8 +145,8 @@ export default function SkillsPage() {
 
           <div className="mt-6 text-center">
             <p className="text-green-700 font-serif text-sm italic">
-              "Bridging cutting-edge AI research with practical applications for
-              global impact"
+              &ldquo;Bridging cutting-edge AI research with practical
+              applications for global impact&rdquo;
             </p>
           </div>
         </div>

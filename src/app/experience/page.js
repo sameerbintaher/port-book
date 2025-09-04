@@ -287,9 +287,9 @@ export default function ExperiencePage() {
           <div className="mt-6 text-center">
             <div className="bg-gradient-to-r from-green-100 to-yellow-100 p-4 rounded-lg border border-green-200">
               <p className="text-green-700 font-serif text-sm">
-                "Bridging cutting-edge AI research with practical leadership and
-                community building to create meaningful impact in education and
-                technology."
+                &ldquo;Bridging cutting-edge AI research with practical
+                leadership and community building to create meaningful impact in
+                education and technology.&rdquo;
               </p>
             </div>
           </div>
